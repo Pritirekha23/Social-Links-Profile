@@ -94,14 +94,13 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 
 
-<!-- 
-# Frontend Mentor - Social links profile -->
 
-
+# Frontend Mentor - Social links profile 
+I've accomplished the Social-Links-Profile frontend mentor challenge, employing only HTML and CSS. The project showcases a clean and responsive design, fulfilling all requirements. This demonstrates my proficiency in frontend development and ability to create visually appealing and functional interfaces using fundamental web technologies.
 
 <!-- Output:
 ![Alt text](opdd.png)
 ![Alt text](opmm.png) -->
 
-<!-- Feel free to give suggestions .
-#Thank You. -->
+Feel free to give suggestions .
+#Thank You.
